@@ -5,6 +5,9 @@
 http://3.38.92.60:7777/
 
 ## 팀 소개
+- https://github.com/encore-PR4/dags
+- https://github.com/encore-PR4/chat-etl
+- https://github.com/encore-PR4/chat-server
 
 |이름|역할 및 담당 업무|깃허브|
 |---|------|---|
